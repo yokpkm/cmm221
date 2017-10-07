@@ -1,7 +1,3 @@
-header .navbar-tabs{
-  justify-content: center; <!-- align to center in vertical -->
-}
-
 .highlight{
   margin-bottom: 0 !important; <!-- delete empty area -->
 }
